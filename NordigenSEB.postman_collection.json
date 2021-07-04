@@ -1,0 +1,121 @@
+{
+	"info": {
+		"_postman_id": "b5d00001-f359-4c56-97f7-86e02f1b5e48",
+		"name": "NordigenSEB",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "get transactions",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-Request-ID",
+						"value": "WvqiIbLrevVN82r35UqgS9S1srsENuqI",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://api-sandbox.sebgroup.com/ais/v7/identified2/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions?bookingStatus=both",
+					"protocol": "https",
+					"host": [
+						"api-sandbox",
+						"sebgroup",
+						"com"
+					],
+					"path": [
+						"ais",
+						"v7",
+						"identified2",
+						"accounts",
+						"5a59028c-e757-4f22-b88c-3ba90573383c",
+						"transactions"
+					],
+					"query": [
+						{
+							"key": "bookingStatus",
+							"value": "both"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "oauth2",
+		"oauth2": [
+			{
+				"key": "client_authentication",
+				"value": "body",
+				"type": "string"
+			},
+			{
+				"key": "scope",
+				"value": "psd2_accounts psd2_payments",
+				"type": "string"
+			},
+			{
+				"key": "clientSecret",
+				"value": "YxzJhP8VnDZD9uZONzlt",
+				"type": "string"
+			},
+			{
+				"key": "clientId",
+				"value": "ONyutbpeWiO3pmnUo6zW",
+				"type": "string"
+			},
+			{
+				"key": "accessTokenUrl",
+				"value": "https://api-sandbox.sebgroup.com/mga/sps/oauth/oauth20/token",
+				"type": "string"
+			},
+			{
+				"key": "authUrl",
+				"value": " \thttps://api-sandbox.sebgroup.com/mga/sps/oauth/oauth20/authorize",
+				"type": "string"
+			},
+			{
+				"key": "tokenName",
+				"value": "test2",
+				"type": "string"
+			},
+			{
+				"key": "addTokenTo",
+				"value": "header",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "accountID",
+			"value": "5a59028c-e757-4f22-b88c-3ba90573383c"
+		},
+		{
+			"key": "variable_key",
+			"value": ""
+		}
+	]
+}
