@@ -17,7 +17,7 @@
 					}
 				],
 				"url": {
-					"raw": "https://api-sandbox.sebgroup.com/ais/v7/identified2/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions?bookingStatus=both",
+					"raw": "https://api-sandbox.sebgroup.com/ais/v7/identified2/accounts/{{accountId}}/transactions?bookingStatus=both",
 					"protocol": "https",
 					"host": [
 						"api-sandbox",
@@ -29,7 +29,7 @@
 						"v7",
 						"identified2",
 						"accounts",
-						"5a59028c-e757-4f22-b88c-3ba90573383c",
+						"{{accountId}}",
 						"transactions"
 					],
 					"query": [
@@ -46,6 +46,11 @@
 	"auth": {
 		"type": "oauth2",
 		"oauth2": [
+			{
+				"key": "tokenName",
+				"value": "token",
+				"type": "string"
+			},
 			{
 				"key": "client_authentication",
 				"value": "body",
@@ -77,11 +82,6 @@
 				"type": "string"
 			},
 			{
-				"key": "tokenName",
-				"value": "test2",
-				"type": "string"
-			},
-			{
 				"key": "addTokenTo",
 				"value": "header",
 				"type": "string"
@@ -110,12 +110,8 @@
 	],
 	"variable": [
 		{
-			"key": "accountID",
+			"key": "accountId",
 			"value": "5a59028c-e757-4f22-b88c-3ba90573383c"
-		},
-		{
-			"key": "variable_key",
-			"value": ""
 		}
 	]
 }
