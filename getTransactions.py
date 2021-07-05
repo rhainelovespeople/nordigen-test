@@ -16,4 +16,8 @@ headers = {
     }
 
 r = requests.get(transactionsUrl, headers=headers)
-print(r.text)
+print(r)
+transactionsJson = r.json()
+
+with open("transactionData.json", "w") as transactionsFile:
+    json.dump(transactionsJson, transactionsFile, indent=4)

@@ -1,0 +1,3019 @@
+{
+    "iban": "SE3750000000054400047881",
+    "bban": "54400047881",
+    "transactions": {
+        "booked": [
+            {
+                "transactionId": "MTQ7NTQ5MDk5MDExMDtBVkkgw5ZWRVJEUkFHOzIwMTktMDItMDU7MjAxOS0wMi0wNTstMTAwOzs7Ozs7NDU=",
+                "valueDate": "2019-02-05",
+                "bookingDate": "2019-02-05",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "b29eda05-e751-434a-b24c-472913444a9a",
+                "valueDate": "2019-02-05",
+                "bookingDate": "2019-02-05",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "8869e390-57ed-40bc-b9c7-4143a471c3da",
+                "valueDate": "2019-01-29",
+                "bookingDate": "2019-01-29",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "1e01825e-8e1f-4c2f-a75e-c9f5f35b7787",
+                "valueDate": "2019-01-22",
+                "bookingDate": "2019-01-22",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTQ7NTQ5MDk5MDExMDtBVkkgw5ZWRVJEUkFHOzIwMTktMDEtMTg7MjAxOS0wMS0xODstMTAwOzs7Ozs7NDI=",
+                "valueDate": "2019-01-18",
+                "bookingDate": "2019-01-18",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "018f1004-d14b-4d40-b9f9-8dd1da83be5e",
+                "valueDate": "2019-01-18",
+                "bookingDate": "2019-01-18",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "ce504100-19ce-4243-a126-3e71e9e67985",
+                "valueDate": "2019-01-15",
+                "bookingDate": "2019-01-15",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "137d88fb-d523-4246-a0a4-542c98624de4",
+                "valueDate": "2019-01-11",
+                "bookingDate": "2019-01-11",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "a273d032-bd57-46fe-918e-89e1b4ac5477",
+                "valueDate": "2019-01-08",
+                "bookingDate": "2019-01-08",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTQ7NTU2MTk5MDY4MTtLT1NUTkFEOzIwMTktMDEtMDQ7MjAxOS0wMS0wNDstMjcsNDs7Ozs7OzM5",
+                "valueDate": "2019-01-04",
+                "bookingDate": "2019-01-04",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTI7NTU2MTk5MDY4MTsyOTAwNDAwNjY0MDQ7MjAxOS0wMS0wNDsyMDE5LTAxLTA0Oy0xMDI5LDk3OzsyOTAwNDAwNjY0MDQ7Ozs7Mzg=",
+                "valueDate": "2019-01-04",
+                "bookingDate": "2019-01-04",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066404",
+                "transactionAmount": {
+                    "amount": "-1029.97",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/MTI7NTU2MTk5MDY4MTsyOTAwNDAwNjY0MDQ7MjAxOS0wMS0wNDsyMDE5LTAxLTA0Oy0xMDI5LDk3OzsyOTAwNDAwNjY0MDQ7Ozs7Mzg="
+                    }
+                }
+            },
+            {
+                "transactionId": "MTQ7NTU2MTk5MDY4MTtLT1NUTkFEOzIwMTktMDEtMDQ7MjAxOS0wMS0wNDstMjcsNDs7Ozs7OzM3",
+                "valueDate": "2019-01-04",
+                "bookingDate": "2019-01-04",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTI7NTU2MTk5MDY4MTsyOTAwNDAwNjY0MDM7MjAxOS0wMS0wNDsyMDE5LTAxLTA0Oy05MDYsMTU7OzI5MDA0MDA2NjQwMzs7OzszNg==",
+                "valueDate": "2019-01-04",
+                "bookingDate": "2019-01-04",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066403",
+                "transactionAmount": {
+                    "amount": "-906.15",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/MTI7NTU2MTk5MDY4MTsyOTAwNDAwNjY0MDM7MjAxOS0wMS0wNDsyMDE5LTAxLTA0Oy05MDYsMTU7OzI5MDA0MDA2NjQwMzs7OzszNg=="
+                    }
+                }
+            },
+            {
+                "transactionId": "440d139e-3a9e-4b5f-bee3-24fb97056b5b",
+                "valueDate": "2019-01-04",
+                "bookingDate": "2019-01-04",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "2a81d717-7a3b-43f0-a56c-d31f12883e94",
+                "valueDate": "2019-01-04",
+                "bookingDate": "2019-01-04",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066404",
+                "transactionAmount": {
+                    "amount": "-1029.97",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/2a81d717-7a3b-43f0-a56c-d31f12883e94"
+                    }
+                }
+            },
+            {
+                "transactionId": "c43b982d-063d-4f4c-ac8d-2bf9c3c4fa06",
+                "valueDate": "2019-01-04",
+                "bookingDate": "2019-01-04",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "a1d9fd20-2d0b-4cb5-bbea-41dc8e62bb83",
+                "valueDate": "2019-01-04",
+                "bookingDate": "2019-01-04",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066403",
+                "transactionAmount": {
+                    "amount": "-906.15",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/a1d9fd20-2d0b-4cb5-bbea-41dc8e62bb83"
+                    }
+                }
+            },
+            {
+                "transactionId": "32360868-dc4e-4ea4-b32b-b9c7ba839566",
+                "valueDate": "2019-01-04",
+                "bookingDate": "2019-01-04",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTQ7NTQ5MDk5MDczMztCRVRBTFNFUlZJQ0U7MjAxOS0wMS0wMzsyMDE5LTAxLTAzOy0xMjA7Ozs7OzszNQ==",
+                "valueDate": "2019-01-03",
+                "bookingDate": "2019-01-03",
+                "entryReference": "5490990733",
+                "descriptiveText": "Betalservice",
+                "transactionAmount": {
+                    "amount": "-120.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "81ab43d0-4f11-4737-a1f2-58f27d91ec11",
+                "valueDate": "2019-01-03",
+                "bookingDate": "2019-01-03",
+                "entryReference": "5490990733",
+                "descriptiveText": "Betalservice",
+                "transactionAmount": {
+                    "amount": "-120.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "88b9b2dd-d677-4b3c-9c52-73e2d72fe21f",
+                "valueDate": "2019-01-01",
+                "bookingDate": "2019-01-01",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "8c29d331-55ff-4120-a7fe-fe833991c41a",
+                "valueDate": "2018-12-28",
+                "bookingDate": "2018-12-28",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "d70ad32d-8d27-4755-a724-918b568b7e0c",
+                "valueDate": "2018-12-28",
+                "bookingDate": "2018-12-28",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066404",
+                "transactionAmount": {
+                    "amount": "-1029.97",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/d70ad32d-8d27-4755-a724-918b568b7e0c"
+                    }
+                }
+            },
+            {
+                "transactionId": "e90e4c80-c4cc-4ce8-8d1a-1994b295a878",
+                "valueDate": "2018-12-28",
+                "bookingDate": "2018-12-28",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "ff4ffa50-df4c-4cf3-bba5-54b8f88b8017",
+                "valueDate": "2018-12-28",
+                "bookingDate": "2018-12-28",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066403",
+                "transactionAmount": {
+                    "amount": "-906.15",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/ff4ffa50-df4c-4cf3-bba5-54b8f88b8017"
+                    }
+                }
+            },
+            {
+                "transactionId": "2e3ef87b-20f7-499e-9c45-53983e77ad54",
+                "valueDate": "2018-12-28",
+                "bookingDate": "2018-12-28",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "cb6f56aa-6e43-40b8-bab7-0347d17f8a86",
+                "valueDate": "2018-12-27",
+                "bookingDate": "2018-12-27",
+                "entryReference": "5490990733",
+                "descriptiveText": "Betalservice",
+                "transactionAmount": {
+                    "amount": "-120.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "35bf3ec6-c113-471e-85ac-6d4a92cfc9c7",
+                "valueDate": "2018-12-25",
+                "bookingDate": "2018-12-25",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "81cd5f8c-449b-4ed2-a0e1-3fb0aeed4508",
+                "valueDate": "2018-12-21",
+                "bookingDate": "2018-12-21",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "37021c7f-89de-407d-81c3-ac0e2672a1d4",
+                "valueDate": "2018-12-21",
+                "bookingDate": "2018-12-21",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066404",
+                "transactionAmount": {
+                    "amount": "-1029.97",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/37021c7f-89de-407d-81c3-ac0e2672a1d4"
+                    }
+                }
+            },
+            {
+                "transactionId": "e4e42c8c-9f3c-448d-853f-3f8266a430da",
+                "valueDate": "2018-12-21",
+                "bookingDate": "2018-12-21",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "7e565886-a1ef-44c3-b275-7ba5e58f2ba0",
+                "valueDate": "2018-12-21",
+                "bookingDate": "2018-12-21",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066403",
+                "transactionAmount": {
+                    "amount": "-906.15",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/7e565886-a1ef-44c3-b275-7ba5e58f2ba0"
+                    }
+                }
+            },
+            {
+                "transactionId": "a2c8cf6f-7a26-4b8b-9074-0d43dc0eb1b6",
+                "valueDate": "2018-12-21",
+                "bookingDate": "2018-12-21",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "b8594a25-9f7f-4c7b-8020-f1a5aac47f70",
+                "valueDate": "2018-12-20",
+                "bookingDate": "2018-12-20",
+                "entryReference": "5490990733",
+                "descriptiveText": "Betalservice",
+                "transactionAmount": {
+                    "amount": "-120.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "5d0da460-ac7f-4ef3-b69a-f2f3c2ad16a1",
+                "valueDate": "2018-12-18",
+                "bookingDate": "2018-12-18",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "ade35a8b-a98b-4007-86ff-b9edf3d0116d",
+                "valueDate": "2018-12-14",
+                "bookingDate": "2018-12-14",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "e31a91f2-a366-4c63-824c-572206bff888",
+                "valueDate": "2018-12-14",
+                "bookingDate": "2018-12-14",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066404",
+                "transactionAmount": {
+                    "amount": "-1029.97",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/e31a91f2-a366-4c63-824c-572206bff888"
+                    }
+                }
+            },
+            {
+                "transactionId": "70cad3ef-c6b9-47ba-b4b8-7e912b42b162",
+                "valueDate": "2018-12-14",
+                "bookingDate": "2018-12-14",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "8f12d9fd-2568-4c1b-8a3a-151eccb70884",
+                "valueDate": "2018-12-14",
+                "bookingDate": "2018-12-14",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066403",
+                "transactionAmount": {
+                    "amount": "-906.15",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/8f12d9fd-2568-4c1b-8a3a-151eccb70884"
+                    }
+                }
+            },
+            {
+                "transactionId": "cb5e1fee-1936-4585-b146-7e3b6bfe3acc",
+                "valueDate": "2018-12-14",
+                "bookingDate": "2018-12-14",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "39be0038-dc70-43fb-9d89-3255490147ed",
+                "valueDate": "2018-12-13",
+                "bookingDate": "2018-12-13",
+                "entryReference": "5490990733",
+                "descriptiveText": "Betalservice",
+                "transactionAmount": {
+                    "amount": "-120.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "138b3cc4-85db-42fa-bfb0-3e8ca6e3e611",
+                "valueDate": "2018-12-11",
+                "bookingDate": "2018-12-11",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "Nzs4MzQwOTAwMDAyUzs7OzIwMTgtMTItMDc7Ozs4MzQwOTAwMDAyUzs7Ozsy",
+                "valueDate": "2018-12-07",
+                "bookingDate": "2018-12-07",
+                "entryReference": "8340900002S",
+                "descriptiveText": "Payex finance AB",
+                "transactionAmount": {
+                    "amount": "-300.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/Nzs4MzQwOTAwMDAyUzs7OzIwMTgtMTItMDc7Ozs4MzQwOTAwMDAyUzs7Ozsy"
+                    }
+                }
+            },
+            {
+                "transactionId": "Nzs4MzQwOTAwMDAxUzs7OzIwMTgtMTItMDc7Ozs4MzQwOTAwMDAxUzs7Ozsx",
+                "valueDate": "2018-12-07",
+                "bookingDate": "2018-12-07",
+                "entryReference": "8340900001S",
+                "descriptiveText": "Radiohj\u00e4lpen",
+                "transactionAmount": {
+                    "amount": "-550.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/Nzs4MzQwOTAwMDAxUzs7OzIwMTgtMTItMDc7Ozs4MzQwOTAwMDAxUzs7Ozsx"
+                    }
+                }
+            },
+            {
+                "transactionId": "efafb382-cabe-475e-a004-2b011ececee9",
+                "valueDate": "2018-12-07",
+                "bookingDate": "2018-12-07",
+                "entryReference": "8340900002S",
+                "descriptiveText": "Payex finance AB",
+                "transactionAmount": {
+                    "amount": "-300.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/efafb382-cabe-475e-a004-2b011ececee9"
+                    }
+                }
+            },
+            {
+                "transactionId": "82508e5e-96d4-4e3a-9242-55c124a543a6",
+                "valueDate": "2018-12-07",
+                "bookingDate": "2018-12-07",
+                "entryReference": "8340900001S",
+                "descriptiveText": "Radiohj\u00e4lpen",
+                "transactionAmount": {
+                    "amount": "-550.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/82508e5e-96d4-4e3a-9242-55c124a543a6"
+                    }
+                }
+            },
+            {
+                "transactionId": "b8cc12b8-c63f-49b4-a5c9-7534811a8dd9",
+                "valueDate": "2018-12-07",
+                "bookingDate": "2018-12-07",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "e2dbca96-c5e1-420a-ac4b-47a84136ba7c",
+                "valueDate": "2018-12-07",
+                "bookingDate": "2018-12-07",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066404",
+                "transactionAmount": {
+                    "amount": "-1029.97",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/e2dbca96-c5e1-420a-ac4b-47a84136ba7c"
+                    }
+                }
+            },
+            {
+                "transactionId": "a59cae2c-7879-47fa-a825-77750afe2c51",
+                "valueDate": "2018-12-07",
+                "bookingDate": "2018-12-07",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "3a67e995-38eb-4682-b61e-2833e4148577",
+                "valueDate": "2018-12-07",
+                "bookingDate": "2018-12-07",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066403",
+                "transactionAmount": {
+                    "amount": "-906.15",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/3a67e995-38eb-4682-b61e-2833e4148577"
+                    }
+                }
+            },
+            {
+                "transactionId": "3907b5be-d09b-4d10-86fa-4540b3f28888",
+                "valueDate": "2018-12-07",
+                "bookingDate": "2018-12-07",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "Nzs4MzM5OTAwMDAwUzs7OzIwMTgtMTItMDY7Ozs4MzM5OTAwMDAwUzs7Ozs3",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "8339900000S",
+                "descriptiveText": "Keramiker tina hellman",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/Nzs4MzM5OTAwMDAwUzs7OzIwMTgtMTItMDY7Ozs4MzM5OTAwMDAwUzs7Ozs3"
+                    }
+                }
+            },
+            {
+                "transactionId": "ODs1NDkwOTkwMDA0Ozs7MjAxOC0xMi0wNjs7OzA3NTQ1MDcyNTg3Mjs7Ozs2",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/ODs1NDkwOTkwMDA0Ozs7MjAxOC0xMi0wNjs7OzA3NTQ1MDcyNTg3Mjs7Ozs2"
+                    }
+                }
+            },
+            {
+                "transactionId": "ODs1NDkwOTkwMDA0Ozs7MjAxOC0xMi0wNjs7OzA3NTUwMjMzODQ3ODs7Ozs1",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/ODs1NDkwOTkwMDA0Ozs7MjAxOC0xMi0wNjs7OzA3NTUwMjMzODQ3ODs7Ozs1"
+                    }
+                }
+            },
+            {
+                "transactionId": "ODs1NDkwOTkwMDA0Ozs7MjAxOC0xMi0wNjs7OzA3NTUxMDMwMzQ1MDs7Ozs0",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990004",
+                "descriptiveText": "54401304012",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/ODs1NDkwOTkwMDA0Ozs7MjAxOC0xMi0wNjs7OzA3NTUxMDMwMzQ1MDs7Ozs0"
+                    }
+                }
+            },
+            {
+                "transactionId": "ODs1NDkwOTkwMDA0Ozs7MjAxOC0xMi0wNjs7OzA3NTUyNzI4NDQyMzs7Ozsz",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/ODs1NDkwOTkwMDA0Ozs7MjAxOC0xMi0wNjs7OzA3NTUyNzI4NDQyMzs7Ozsz"
+                    }
+                }
+            },
+            {
+                "transactionId": "ODs1NDkwOTkwMDA0Ozs7MjAxOC0xMi0wNjs7OzA3NTUzNjA3MzIwNjs7Ozsy",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/ODs1NDkwOTkwMDA0Ozs7MjAxOC0xMi0wNjs7OzA3NTUzNjA3MzIwNjs7Ozsy"
+                    }
+                }
+            },
+            {
+                "transactionId": "MDs1NDkwOTkwMDA0O0ZPUiBTRVBBOzIwMTgtMTItMDY7MjAxOC0xMi0wNjsxMDAwOzs7Ozs7MQ==",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990004",
+                "descriptiveText": "For sepa",
+                "transactionAmount": {
+                    "amount": "1000.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "0",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring"
+            },
+            {
+                "transactionId": "fcebc625-195c-41c0-ac33-e952dcda7115",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "8339900000S",
+                "descriptiveText": "Keramiker tina hellman",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/fcebc625-195c-41c0-ac33-e952dcda7115"
+                    }
+                }
+            },
+            {
+                "transactionId": "ccbf91e8-bdb3-4ae5-b818-d89329ccca2c",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/ccbf91e8-bdb3-4ae5-b818-d89329ccca2c"
+                    }
+                }
+            },
+            {
+                "transactionId": "460f6a0e-ccda-4aaa-bc83-c7fb79dc46e3",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/460f6a0e-ccda-4aaa-bc83-c7fb79dc46e3"
+                    }
+                }
+            },
+            {
+                "transactionId": "e2ba594e-3b6f-4946-ab6f-6b5b8be22b66",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990004",
+                "descriptiveText": "54401304012",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/e2ba594e-3b6f-4946-ab6f-6b5b8be22b66"
+                    }
+                }
+            },
+            {
+                "transactionId": "9ede47e9-a106-4799-bd3f-48f54e5ed269",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/9ede47e9-a106-4799-bd3f-48f54e5ed269"
+                    }
+                }
+            },
+            {
+                "transactionId": "36d2f143-fca4-4f47-ba35-42204108a8e8",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/36d2f143-fca4-4f47-ba35-42204108a8e8"
+                    }
+                }
+            },
+            {
+                "transactionId": "3a326cb6-0c15-4d7e-bdc0-49752610550b",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990004",
+                "descriptiveText": "For sepa",
+                "transactionAmount": {
+                    "amount": "1000.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "0",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring"
+            },
+            {
+                "transactionId": "c1af49c1-50d1-4ff9-bde8-179fcc5be773",
+                "valueDate": "2018-12-06",
+                "bookingDate": "2018-12-06",
+                "entryReference": "5490990733",
+                "descriptiveText": "Betalservice",
+                "transactionAmount": {
+                    "amount": "-120.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "2f0a69c7-db53-4f7f-870a-4be627c8eaaf",
+                "valueDate": "2018-12-04",
+                "bookingDate": "2018-12-04",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "cdc5cfde-e4da-42cd-8e01-7fba55bfe988",
+                "valueDate": "2018-11-30",
+                "bookingDate": "2018-11-30",
+                "entryReference": "8340900002S",
+                "descriptiveText": "Payex finance AB",
+                "transactionAmount": {
+                    "amount": "-300.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/cdc5cfde-e4da-42cd-8e01-7fba55bfe988"
+                    }
+                }
+            },
+            {
+                "transactionId": "9c734df9-59c9-4a6d-b9ff-4092f14a51d5",
+                "valueDate": "2018-11-30",
+                "bookingDate": "2018-11-30",
+                "entryReference": "8340900001S",
+                "descriptiveText": "Radiohj\u00e4lpen",
+                "transactionAmount": {
+                    "amount": "-550.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/9c734df9-59c9-4a6d-b9ff-4092f14a51d5"
+                    }
+                }
+            },
+            {
+                "transactionId": "880f0e0d-f282-45c1-a1a8-44500ea3b1b4",
+                "valueDate": "2018-11-30",
+                "bookingDate": "2018-11-30",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "075a90d1-b7ca-4531-a894-dd0904fcba36",
+                "valueDate": "2018-11-30",
+                "bookingDate": "2018-11-30",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066404",
+                "transactionAmount": {
+                    "amount": "-1029.97",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/075a90d1-b7ca-4531-a894-dd0904fcba36"
+                    }
+                }
+            },
+            {
+                "transactionId": "d1af3db4-1f8a-4821-8061-6a7aa202c215",
+                "valueDate": "2018-11-30",
+                "bookingDate": "2018-11-30",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "60fc90f2-dcd0-4d83-9904-15253d93518b",
+                "valueDate": "2018-11-30",
+                "bookingDate": "2018-11-30",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066403",
+                "transactionAmount": {
+                    "amount": "-906.15",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/60fc90f2-dcd0-4d83-9904-15253d93518b"
+                    }
+                }
+            },
+            {
+                "transactionId": "ab6b0261-c363-4aaf-9de8-7cf484955e62",
+                "valueDate": "2018-11-30",
+                "bookingDate": "2018-11-30",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "18f3314a-ebda-4113-9d5c-611420d21c52",
+                "valueDate": "2018-11-29",
+                "bookingDate": "2018-11-29",
+                "entryReference": "8339900000S",
+                "descriptiveText": "Keramiker tina hellman",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/18f3314a-ebda-4113-9d5c-611420d21c52"
+                    }
+                }
+            },
+            {
+                "transactionId": "08f85866-e918-4af4-88a0-10957b7412eb",
+                "valueDate": "2018-11-29",
+                "bookingDate": "2018-11-29",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/08f85866-e918-4af4-88a0-10957b7412eb"
+                    }
+                }
+            },
+            {
+                "transactionId": "1de42b27-af8d-4f8b-82ac-7bf17c4d145f",
+                "valueDate": "2018-11-29",
+                "bookingDate": "2018-11-29",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/1de42b27-af8d-4f8b-82ac-7bf17c4d145f"
+                    }
+                }
+            },
+            {
+                "transactionId": "88ca813f-0e38-43ca-a302-13b846eb2ce0",
+                "valueDate": "2018-11-29",
+                "bookingDate": "2018-11-29",
+                "entryReference": "5490990004",
+                "descriptiveText": "54401304012",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/88ca813f-0e38-43ca-a302-13b846eb2ce0"
+                    }
+                }
+            },
+            {
+                "transactionId": "27efa665-6f15-4c73-8df8-e9d3a3f5c2d6",
+                "valueDate": "2018-11-29",
+                "bookingDate": "2018-11-29",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/27efa665-6f15-4c73-8df8-e9d3a3f5c2d6"
+                    }
+                }
+            },
+            {
+                "transactionId": "ed83180d-e0bf-4e76-a97d-06b0a5bd0949",
+                "valueDate": "2018-11-29",
+                "bookingDate": "2018-11-29",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/ed83180d-e0bf-4e76-a97d-06b0a5bd0949"
+                    }
+                }
+            },
+            {
+                "transactionId": "e9102d39-90c3-43cb-b637-be607cff055c",
+                "valueDate": "2018-11-29",
+                "bookingDate": "2018-11-29",
+                "entryReference": "5490990004",
+                "descriptiveText": "For sepa",
+                "transactionAmount": {
+                    "amount": "1000.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "0",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring"
+            },
+            {
+                "transactionId": "da451fa8-0265-42b2-a9f0-b799882b90ed",
+                "valueDate": "2018-11-29",
+                "bookingDate": "2018-11-29",
+                "entryReference": "5490990733",
+                "descriptiveText": "Betalservice",
+                "transactionAmount": {
+                    "amount": "-120.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTQ7NTQ0MDg1MDE0MUw7w5ZWRVJGw5ZSVDsyMDE4LTExLTI4OzIwMTgtMTEtMjg7MTUwMDs7Ozs7OzI=",
+                "valueDate": "2018-11-28",
+                "bookingDate": "2018-11-28",
+                "entryReference": "5440850141L",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTQ7NTQ0MDg1MDE0NUw7w5ZWRVJGw5ZSVDsyMDE4LTExLTI4OzIwMTgtMTEtMjg7MTUwMDs7Ozs7OzE=",
+                "valueDate": "2018-11-28",
+                "bookingDate": "2018-11-28",
+                "entryReference": "5440850145L",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "6109ba6d-8916-4d19-af88-40d485bb453b",
+                "valueDate": "2018-11-28",
+                "bookingDate": "2018-11-28",
+                "entryReference": "5440850141L",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "24b8d34c-85b0-42d8-afac-99b24991c5ab",
+                "valueDate": "2018-11-28",
+                "bookingDate": "2018-11-28",
+                "entryReference": "5440850145L",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTQ7NTQ0MDg1MDE1NDtSw4RUVEFUOzIwMTgtMTEtMjc7MjAxOC0xMS0yNzstMTUwOzs7Ozs7MQ==",
+                "valueDate": "2018-11-27",
+                "bookingDate": "2018-11-27",
+                "entryReference": "5440850154",
+                "descriptiveText": "R\u00e4ttat",
+                "transactionAmount": {
+                    "amount": "-150.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "b0c1170b-22e8-4cde-84aa-bcdc783ded3c",
+                "valueDate": "2018-11-27",
+                "bookingDate": "2018-11-27",
+                "entryReference": "5440850154",
+                "descriptiveText": "R\u00e4ttat",
+                "transactionAmount": {
+                    "amount": "-150.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "94748f18-de7b-457b-b976-432c65d92cde",
+                "valueDate": "2018-11-27",
+                "bookingDate": "2018-11-27",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTQ7NTQ0MDg1MDA5NTvDllZFUkbDllJUOzIwMTgtMTEtMjY7MjAxOC0xMS0yNjsyMDA7Ozs7Ozs2",
+                "valueDate": "2018-11-26",
+                "bookingDate": "2018-11-26",
+                "entryReference": "5440850095",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTQ7NTQ0MDg1MDA5OTvDllZFUkbDllJUOzIwMTgtMTEtMjY7MjAxOC0xMS0yNjsyMDA7Ozs7Ozs1",
+                "valueDate": "2018-11-26",
+                "bookingDate": "2018-11-26",
+                "entryReference": "5440850099",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTQ7NTQ0MDg1MDA5ODvDllZFUkbDllJUOzIwMTgtMTEtMjY7MjAxOC0xMS0yNjsyMDA7Ozs7Ozs0",
+                "valueDate": "2018-11-26",
+                "bookingDate": "2018-11-26",
+                "entryReference": "5440850098",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTQ7NTQ0MDg1MDE0OTvDllZFUkbDllJUOzIwMTgtMTEtMjY7MjAxOC0xMS0yNjsxNTAwOzs7Ozs7Mw==",
+                "valueDate": "2018-11-26",
+                "bookingDate": "2018-11-26",
+                "entryReference": "5440850149",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "MTI7NTU2MTk5MDY4MTsyODMzMDAwNjYyNTI7MjAxOC0xMS0yNjsyMDE4LTExLTI2Oy05MTIsOTk7OzI4MzMwMDA2NjI1Mjs7Ozsy",
+                "valueDate": "2018-11-26",
+                "bookingDate": "2018-11-26",
+                "entryReference": "5561990681",
+                "descriptiveText": "283300066252",
+                "transactionAmount": {
+                    "amount": "-912.99",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/MTI7NTU2MTk5MDY4MTsyODMzMDAwNjYyNTI7MjAxOC0xMS0yNjsyMDE4LTExLTI2Oy05MTIsOTk7OzI4MzMwMDA2NjI1Mjs7Ozsy"
+                    }
+                }
+            },
+            {
+                "transactionId": "MTQ7NTU2MTk5MDY4MTtLT1NUTkFEOzIwMTgtMTEtMjY7MjAxOC0xMS0yNjstMzcsNDs7Ozs7OzE=",
+                "valueDate": "2018-11-26",
+                "bookingDate": "2018-11-26",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-37.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "cbf30b9b-118b-4b34-aca7-3e00c5e2536c",
+                "valueDate": "2018-11-26",
+                "bookingDate": "2018-11-26",
+                "entryReference": "5440850095",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "118e6926-27ec-4d25-b71d-6e35a708c124",
+                "valueDate": "2018-11-26",
+                "bookingDate": "2018-11-26",
+                "entryReference": "5440850099",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "9c612bdc-8d67-4a5d-9649-c5be7d707eaf",
+                "valueDate": "2018-11-26",
+                "bookingDate": "2018-11-26",
+                "entryReference": "5440850098",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "092cd34c-ba9c-4835-9ba5-f0dbf9b6dcb9",
+                "valueDate": "2018-11-26",
+                "bookingDate": "2018-11-26",
+                "entryReference": "5440850149",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "603b2bca-a02d-44a4-8c16-0dba9e19f931",
+                "valueDate": "2018-11-26",
+                "bookingDate": "2018-11-26",
+                "entryReference": "5561990681",
+                "descriptiveText": "283300066252",
+                "transactionAmount": {
+                    "amount": "-912.99",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/603b2bca-a02d-44a4-8c16-0dba9e19f931"
+                    }
+                }
+            },
+            {
+                "transactionId": "ace7b511-ddfd-4185-8420-378a6f4c633a",
+                "valueDate": "2018-11-26",
+                "bookingDate": "2018-11-26",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-37.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "6f24de7e-9f81-4f09-999a-b33bead16e8d",
+                "valueDate": "2018-11-23",
+                "bookingDate": "2018-11-23",
+                "entryReference": "8340900002S",
+                "descriptiveText": "Payex finance AB",
+                "transactionAmount": {
+                    "amount": "-300.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/6f24de7e-9f81-4f09-999a-b33bead16e8d"
+                    }
+                }
+            },
+            {
+                "transactionId": "0d8df726-9425-49e6-bcd3-0d1b3e711093",
+                "valueDate": "2018-11-23",
+                "bookingDate": "2018-11-23",
+                "entryReference": "8340900001S",
+                "descriptiveText": "Radiohj\u00e4lpen",
+                "transactionAmount": {
+                    "amount": "-550.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/0d8df726-9425-49e6-bcd3-0d1b3e711093"
+                    }
+                }
+            },
+            {
+                "transactionId": "ca7d125a-3e05-480e-b8e3-d01db7d48f90",
+                "valueDate": "2018-11-23",
+                "bookingDate": "2018-11-23",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "ff7ee7e5-f601-4d3d-bc15-d0eb71315ef3",
+                "valueDate": "2018-11-23",
+                "bookingDate": "2018-11-23",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066404",
+                "transactionAmount": {
+                    "amount": "-1029.97",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/ff7ee7e5-f601-4d3d-bc15-d0eb71315ef3"
+                    }
+                }
+            },
+            {
+                "transactionId": "abf2f522-0880-4d1b-ae5f-d5ba89fcf77d",
+                "valueDate": "2018-11-23",
+                "bookingDate": "2018-11-23",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "53cc37ea-f8e9-442b-ad9f-bdbb7c830d5a",
+                "valueDate": "2018-11-23",
+                "bookingDate": "2018-11-23",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066403",
+                "transactionAmount": {
+                    "amount": "-906.15",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/53cc37ea-f8e9-442b-ad9f-bdbb7c830d5a"
+                    }
+                }
+            },
+            {
+                "transactionId": "9686edbb-97dc-4d73-9e39-ba5cf519f8db",
+                "valueDate": "2018-11-23",
+                "bookingDate": "2018-11-23",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "5fb3b5a9-bf1b-435b-a147-503384e63a15",
+                "valueDate": "2018-11-22",
+                "bookingDate": "2018-11-22",
+                "entryReference": "8339900000S",
+                "descriptiveText": "Keramiker tina hellman",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/5fb3b5a9-bf1b-435b-a147-503384e63a15"
+                    }
+                }
+            },
+            {
+                "transactionId": "a65f410c-f9c6-4c96-a749-bf958ef11ea8",
+                "valueDate": "2018-11-22",
+                "bookingDate": "2018-11-22",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/a65f410c-f9c6-4c96-a749-bf958ef11ea8"
+                    }
+                }
+            },
+            {
+                "transactionId": "239e77d3-48dc-4906-a611-e368b4018ea6",
+                "valueDate": "2018-11-22",
+                "bookingDate": "2018-11-22",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/239e77d3-48dc-4906-a611-e368b4018ea6"
+                    }
+                }
+            },
+            {
+                "transactionId": "93912502-558d-4ac9-998d-5baff42635d7",
+                "valueDate": "2018-11-22",
+                "bookingDate": "2018-11-22",
+                "entryReference": "5490990004",
+                "descriptiveText": "54401304012",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/93912502-558d-4ac9-998d-5baff42635d7"
+                    }
+                }
+            },
+            {
+                "transactionId": "02f68117-bb30-4f31-96b2-8b2c81ca925e",
+                "valueDate": "2018-11-22",
+                "bookingDate": "2018-11-22",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/02f68117-bb30-4f31-96b2-8b2c81ca925e"
+                    }
+                }
+            },
+            {
+                "transactionId": "d071734b-696a-4597-8631-68f5adb5ac78",
+                "valueDate": "2018-11-22",
+                "bookingDate": "2018-11-22",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/d071734b-696a-4597-8631-68f5adb5ac78"
+                    }
+                }
+            },
+            {
+                "transactionId": "133ee07c-5172-4ac0-8979-9c6703ba0a98",
+                "valueDate": "2018-11-22",
+                "bookingDate": "2018-11-22",
+                "entryReference": "5490990004",
+                "descriptiveText": "For sepa",
+                "transactionAmount": {
+                    "amount": "1000.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "0",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring"
+            },
+            {
+                "transactionId": "273c6590-9140-4d21-a78b-88bdfd958f88",
+                "valueDate": "2018-11-22",
+                "bookingDate": "2018-11-22",
+                "entryReference": "5490990733",
+                "descriptiveText": "Betalservice",
+                "transactionAmount": {
+                    "amount": "-120.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "5fe64635-750a-490a-9828-8d279b89c1b6",
+                "valueDate": "2018-11-21",
+                "bookingDate": "2018-11-21",
+                "entryReference": "5440850141L",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "c98feb77-9975-45bc-b756-15cbf04e3a19",
+                "valueDate": "2018-11-21",
+                "bookingDate": "2018-11-21",
+                "entryReference": "5440850145L",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "227bf0d7-a2cd-4d02-857b-9d36362b2175",
+                "valueDate": "2018-11-20",
+                "bookingDate": "2018-11-20",
+                "entryReference": "5440850154",
+                "descriptiveText": "R\u00e4ttat",
+                "transactionAmount": {
+                    "amount": "-150.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "7c3f20d0-c175-4cf7-b05c-f8cb5ed389ae",
+                "valueDate": "2018-11-20",
+                "bookingDate": "2018-11-20",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "dfc10a78-2df1-48ef-bdb9-3bd77f7c1ceb",
+                "valueDate": "2018-11-19",
+                "bookingDate": "2018-11-19",
+                "entryReference": "5440850095",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "f24c9edf-1906-46fe-af83-fc1a03b28b71",
+                "valueDate": "2018-11-19",
+                "bookingDate": "2018-11-19",
+                "entryReference": "5440850099",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "5ab02909-53fe-4d5e-b3be-4a54a1f57e73",
+                "valueDate": "2018-11-19",
+                "bookingDate": "2018-11-19",
+                "entryReference": "5440850098",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "9efc4259-6b16-4a3c-966a-bd0a19838225",
+                "valueDate": "2018-11-19",
+                "bookingDate": "2018-11-19",
+                "entryReference": "5440850149",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "50eb6514-2778-4727-a3c1-0b5b847356da",
+                "valueDate": "2018-11-19",
+                "bookingDate": "2018-11-19",
+                "entryReference": "5561990681",
+                "descriptiveText": "283300066252",
+                "transactionAmount": {
+                    "amount": "-912.99",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/50eb6514-2778-4727-a3c1-0b5b847356da"
+                    }
+                }
+            },
+            {
+                "transactionId": "9eaf9cbd-8b7f-4e60-8f0a-93b5c1f6dfed",
+                "valueDate": "2018-11-19",
+                "bookingDate": "2018-11-19",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-37.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "47935847-f34e-4d13-9d99-dc2c2e3f2210",
+                "valueDate": "2018-11-16",
+                "bookingDate": "2018-11-16",
+                "entryReference": "8340900002S",
+                "descriptiveText": "Payex finance AB",
+                "transactionAmount": {
+                    "amount": "-300.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/47935847-f34e-4d13-9d99-dc2c2e3f2210"
+                    }
+                }
+            },
+            {
+                "transactionId": "10adc184-68de-4d1a-bd45-f177bad44800",
+                "valueDate": "2018-11-16",
+                "bookingDate": "2018-11-16",
+                "entryReference": "8340900001S",
+                "descriptiveText": "Radiohj\u00e4lpen",
+                "transactionAmount": {
+                    "amount": "-550.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/10adc184-68de-4d1a-bd45-f177bad44800"
+                    }
+                }
+            },
+            {
+                "transactionId": "c226a5d9-f007-4e7e-a477-e4fca634b6ca",
+                "valueDate": "2018-11-16",
+                "bookingDate": "2018-11-16",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "19807684-15da-4ca5-ae29-0fd850d77749",
+                "valueDate": "2018-11-16",
+                "bookingDate": "2018-11-16",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066404",
+                "transactionAmount": {
+                    "amount": "-1029.97",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/19807684-15da-4ca5-ae29-0fd850d77749"
+                    }
+                }
+            },
+            {
+                "transactionId": "bcb46ab4-3fac-45dc-bb5e-bc01bf33ce97",
+                "valueDate": "2018-11-16",
+                "bookingDate": "2018-11-16",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "0b389be0-3628-41cd-925b-f8363288e38c",
+                "valueDate": "2018-11-16",
+                "bookingDate": "2018-11-16",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066403",
+                "transactionAmount": {
+                    "amount": "-906.15",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/0b389be0-3628-41cd-925b-f8363288e38c"
+                    }
+                }
+            },
+            {
+                "transactionId": "12a59ca7-2c7b-4ffc-a32c-8ac2b140bd06",
+                "valueDate": "2018-11-16",
+                "bookingDate": "2018-11-16",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "2d2eead7-d218-417c-86aa-fb39fa03773e",
+                "valueDate": "2018-11-15",
+                "bookingDate": "2018-11-15",
+                "entryReference": "8339900000S",
+                "descriptiveText": "Keramiker tina hellman",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/2d2eead7-d218-417c-86aa-fb39fa03773e"
+                    }
+                }
+            },
+            {
+                "transactionId": "be077cea-9ee4-4527-a360-774b3176798a",
+                "valueDate": "2018-11-15",
+                "bookingDate": "2018-11-15",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/be077cea-9ee4-4527-a360-774b3176798a"
+                    }
+                }
+            },
+            {
+                "transactionId": "5ff0b21f-426b-4d6a-aba6-b2610dbdc95e",
+                "valueDate": "2018-11-15",
+                "bookingDate": "2018-11-15",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/5ff0b21f-426b-4d6a-aba6-b2610dbdc95e"
+                    }
+                }
+            },
+            {
+                "transactionId": "cada7d2c-41d3-4d39-ad57-91b26d216600",
+                "valueDate": "2018-11-15",
+                "bookingDate": "2018-11-15",
+                "entryReference": "5490990004",
+                "descriptiveText": "54401304012",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/cada7d2c-41d3-4d39-ad57-91b26d216600"
+                    }
+                }
+            },
+            {
+                "transactionId": "e0ba30fd-099e-4758-89f2-5bec17ed3d66",
+                "valueDate": "2018-11-15",
+                "bookingDate": "2018-11-15",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/e0ba30fd-099e-4758-89f2-5bec17ed3d66"
+                    }
+                }
+            },
+            {
+                "transactionId": "f048fad9-6823-4bbf-ad68-21879e7519a6",
+                "valueDate": "2018-11-15",
+                "bookingDate": "2018-11-15",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/f048fad9-6823-4bbf-ad68-21879e7519a6"
+                    }
+                }
+            },
+            {
+                "transactionId": "05f9566d-ec1a-487c-948d-82e80675ed85",
+                "valueDate": "2018-11-15",
+                "bookingDate": "2018-11-15",
+                "entryReference": "5490990004",
+                "descriptiveText": "For sepa",
+                "transactionAmount": {
+                    "amount": "1000.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "0",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring"
+            },
+            {
+                "transactionId": "80116dac-f2a5-4c04-a156-d42ce8d8406a",
+                "valueDate": "2018-11-15",
+                "bookingDate": "2018-11-15",
+                "entryReference": "5490990733",
+                "descriptiveText": "Betalservice",
+                "transactionAmount": {
+                    "amount": "-120.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "15061852-2d86-43a4-a20d-31edd56f7ba9",
+                "valueDate": "2018-11-14",
+                "bookingDate": "2018-11-14",
+                "entryReference": "5440850141L",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "f9f60532-8783-46f8-8211-7b8e823e7763",
+                "valueDate": "2018-11-14",
+                "bookingDate": "2018-11-14",
+                "entryReference": "5440850145L",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "f169d1af-2539-40f8-aa4c-733966208663",
+                "valueDate": "2018-11-13",
+                "bookingDate": "2018-11-13",
+                "entryReference": "5440850154",
+                "descriptiveText": "R\u00e4ttat",
+                "transactionAmount": {
+                    "amount": "-150.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "2a34c07f-44b6-4de9-ae6d-38b45dcf164c",
+                "valueDate": "2018-11-13",
+                "bookingDate": "2018-11-13",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "5ce4a0d5-1c1a-4234-b423-b3d69cfc98e4",
+                "valueDate": "2018-11-12",
+                "bookingDate": "2018-11-12",
+                "entryReference": "5440850095",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "d4a40bac-b469-49b9-a013-0647ccd399ca",
+                "valueDate": "2018-11-12",
+                "bookingDate": "2018-11-12",
+                "entryReference": "5440850099",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "1a2f79ce-5578-4c95-8eba-3065a4a012d4",
+                "valueDate": "2018-11-12",
+                "bookingDate": "2018-11-12",
+                "entryReference": "5440850098",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "a10ec2e5-2be0-4418-a429-870650c2b06a",
+                "valueDate": "2018-11-12",
+                "bookingDate": "2018-11-12",
+                "entryReference": "5440850149",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "a4a4b1c5-383c-4672-9eef-33e0694b70d0",
+                "valueDate": "2018-11-12",
+                "bookingDate": "2018-11-12",
+                "entryReference": "5561990681",
+                "descriptiveText": "283300066252",
+                "transactionAmount": {
+                    "amount": "-912.99",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/a4a4b1c5-383c-4672-9eef-33e0694b70d0"
+                    }
+                }
+            },
+            {
+                "transactionId": "39eee2b8-9594-47b5-84e3-c075a97a96b1",
+                "valueDate": "2018-11-12",
+                "bookingDate": "2018-11-12",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-37.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "bc2b873f-5532-47f0-bf39-31df358fe1c2",
+                "valueDate": "2018-11-09",
+                "bookingDate": "2018-11-09",
+                "entryReference": "8340900002S",
+                "descriptiveText": "Payex finance AB",
+                "transactionAmount": {
+                    "amount": "-300.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/bc2b873f-5532-47f0-bf39-31df358fe1c2"
+                    }
+                }
+            },
+            {
+                "transactionId": "69e12661-f044-42fd-835c-94952f94c86e",
+                "valueDate": "2018-11-09",
+                "bookingDate": "2018-11-09",
+                "entryReference": "8340900001S",
+                "descriptiveText": "Radiohj\u00e4lpen",
+                "transactionAmount": {
+                    "amount": "-550.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/69e12661-f044-42fd-835c-94952f94c86e"
+                    }
+                }
+            },
+            {
+                "transactionId": "83dce09d-1548-462d-9b55-9bee999115d6",
+                "valueDate": "2018-11-09",
+                "bookingDate": "2018-11-09",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "8e8b5687-2ff5-4b2a-b610-9ace063b8a75",
+                "valueDate": "2018-11-09",
+                "bookingDate": "2018-11-09",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066404",
+                "transactionAmount": {
+                    "amount": "-1029.97",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/8e8b5687-2ff5-4b2a-b610-9ace063b8a75"
+                    }
+                }
+            },
+            {
+                "transactionId": "d4dff1f4-3f9c-4e2b-a16b-3e964db49a42",
+                "valueDate": "2018-11-09",
+                "bookingDate": "2018-11-09",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "4f99315c-ab9e-4a32-9a54-f0e54b72cdd3",
+                "valueDate": "2018-11-09",
+                "bookingDate": "2018-11-09",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066403",
+                "transactionAmount": {
+                    "amount": "-906.15",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/4f99315c-ab9e-4a32-9a54-f0e54b72cdd3"
+                    }
+                }
+            },
+            {
+                "transactionId": "2db9ff0f-e3d9-4fe9-b279-d926082e6658",
+                "valueDate": "2018-11-09",
+                "bookingDate": "2018-11-09",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "f368ed7c-e812-478b-b643-a71c8a216ed3",
+                "valueDate": "2018-11-08",
+                "bookingDate": "2018-11-08",
+                "entryReference": "8339900000S",
+                "descriptiveText": "Keramiker tina hellman",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/f368ed7c-e812-478b-b643-a71c8a216ed3"
+                    }
+                }
+            },
+            {
+                "transactionId": "560b6ea3-8a0d-4ac8-887e-eea903c48646",
+                "valueDate": "2018-11-08",
+                "bookingDate": "2018-11-08",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/560b6ea3-8a0d-4ac8-887e-eea903c48646"
+                    }
+                }
+            },
+            {
+                "transactionId": "231b8127-1180-4f67-ab35-e497f4b1d601",
+                "valueDate": "2018-11-08",
+                "bookingDate": "2018-11-08",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/231b8127-1180-4f67-ab35-e497f4b1d601"
+                    }
+                }
+            },
+            {
+                "transactionId": "4eb34272-fa5e-48b6-bc56-108ccddff70b",
+                "valueDate": "2018-11-08",
+                "bookingDate": "2018-11-08",
+                "entryReference": "5490990004",
+                "descriptiveText": "54401304012",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/4eb34272-fa5e-48b6-bc56-108ccddff70b"
+                    }
+                }
+            },
+            {
+                "transactionId": "bad34c0e-4e18-4825-a6ca-47769bdeac50",
+                "valueDate": "2018-11-08",
+                "bookingDate": "2018-11-08",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/bad34c0e-4e18-4825-a6ca-47769bdeac50"
+                    }
+                }
+            },
+            {
+                "transactionId": "8331a87e-8bd0-4125-9f09-050c49914a92",
+                "valueDate": "2018-11-08",
+                "bookingDate": "2018-11-08",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/8331a87e-8bd0-4125-9f09-050c49914a92"
+                    }
+                }
+            },
+            {
+                "transactionId": "c36aa76f-2b65-4b9b-8078-4e79669926c9",
+                "valueDate": "2018-11-08",
+                "bookingDate": "2018-11-08",
+                "entryReference": "5490990004",
+                "descriptiveText": "For sepa",
+                "transactionAmount": {
+                    "amount": "1000.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "0",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring"
+            },
+            {
+                "transactionId": "7d48dd6a-a632-49cf-b4c8-79fe9a2d7878",
+                "valueDate": "2018-11-08",
+                "bookingDate": "2018-11-08",
+                "entryReference": "5490990733",
+                "descriptiveText": "Betalservice",
+                "transactionAmount": {
+                    "amount": "-120.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "c4fca0fa-af3b-404a-992c-718945016da0",
+                "valueDate": "2018-11-07",
+                "bookingDate": "2018-11-07",
+                "entryReference": "5440850141L",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "4da94651-e083-4ecd-b304-c9cec64be37b",
+                "valueDate": "2018-11-07",
+                "bookingDate": "2018-11-07",
+                "entryReference": "5440850145L",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "5a100488-ae1f-4ce9-aba3-16d188e945d4",
+                "valueDate": "2018-11-06",
+                "bookingDate": "2018-11-06",
+                "entryReference": "5440850154",
+                "descriptiveText": "R\u00e4ttat",
+                "transactionAmount": {
+                    "amount": "-150.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "87da8874-4469-4a91-8ab3-6a5eb777385b",
+                "valueDate": "2018-11-06",
+                "bookingDate": "2018-11-06",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "4d77f5fd-e2eb-4083-b74b-94f0c9e47774",
+                "valueDate": "2018-11-05",
+                "bookingDate": "2018-11-05",
+                "entryReference": "5440850095",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "e71b767a-38f3-495a-8a8c-a9f169f06d5f",
+                "valueDate": "2018-11-05",
+                "bookingDate": "2018-11-05",
+                "entryReference": "5440850099",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "87031ebd-a643-409e-b3a0-c035747264c0",
+                "valueDate": "2018-11-05",
+                "bookingDate": "2018-11-05",
+                "entryReference": "5440850098",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "bd109988-8b40-4f73-9350-d2eecc938013",
+                "valueDate": "2018-11-05",
+                "bookingDate": "2018-11-05",
+                "entryReference": "5440850149",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "fea59a11-8457-426b-a796-bde867c61279",
+                "valueDate": "2018-11-05",
+                "bookingDate": "2018-11-05",
+                "entryReference": "5561990681",
+                "descriptiveText": "283300066252",
+                "transactionAmount": {
+                    "amount": "-912.99",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/fea59a11-8457-426b-a796-bde867c61279"
+                    }
+                }
+            },
+            {
+                "transactionId": "2067d5a9-8fa3-478d-8d47-c5bc5c3072ea",
+                "valueDate": "2018-11-05",
+                "bookingDate": "2018-11-05",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-37.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "ac858ac2-69f8-4668-9d5f-7c0a4eb9fe9c",
+                "valueDate": "2018-11-02",
+                "bookingDate": "2018-11-02",
+                "entryReference": "8340900002S",
+                "descriptiveText": "Payex finance AB",
+                "transactionAmount": {
+                    "amount": "-300.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/ac858ac2-69f8-4668-9d5f-7c0a4eb9fe9c"
+                    }
+                }
+            },
+            {
+                "transactionId": "25555bef-1770-4509-a718-e6fbab29efdc",
+                "valueDate": "2018-11-02",
+                "bookingDate": "2018-11-02",
+                "entryReference": "8340900001S",
+                "descriptiveText": "Radiohj\u00e4lpen",
+                "transactionAmount": {
+                    "amount": "-550.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/25555bef-1770-4509-a718-e6fbab29efdc"
+                    }
+                }
+            },
+            {
+                "transactionId": "382fda19-76e7-4b0c-aad2-008635f2ab53",
+                "valueDate": "2018-11-02",
+                "bookingDate": "2018-11-02",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "2b22581e-ca36-49a0-a7c0-551cfcc9b1af",
+                "valueDate": "2018-11-02",
+                "bookingDate": "2018-11-02",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066404",
+                "transactionAmount": {
+                    "amount": "-1029.97",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/2b22581e-ca36-49a0-a7c0-551cfcc9b1af"
+                    }
+                }
+            },
+            {
+                "transactionId": "34e9f348-403d-4a80-b89e-1b5e9ef12882",
+                "valueDate": "2018-11-02",
+                "bookingDate": "2018-11-02",
+                "entryReference": "5561990681",
+                "descriptiveText": "Kostnad",
+                "transactionAmount": {
+                    "amount": "-27.4",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "96ca095f-d286-4b43-90c2-5e85229a6f48",
+                "valueDate": "2018-11-02",
+                "bookingDate": "2018-11-02",
+                "entryReference": "5561990681",
+                "descriptiveText": "290040066403",
+                "transactionAmount": {
+                    "amount": "-906.15",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "12",
+                "proprietaryBankTransactionCodeText": "Utlandsbetalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/96ca095f-d286-4b43-90c2-5e85229a6f48"
+                    }
+                }
+            },
+            {
+                "transactionId": "85d1b75c-023e-4366-80a6-2880d8f37d4c",
+                "valueDate": "2018-11-02",
+                "bookingDate": "2018-11-02",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "8a2362bc-69c7-47d8-8b23-a999e171b7a6",
+                "valueDate": "2018-11-01",
+                "bookingDate": "2018-11-01",
+                "entryReference": "8339900000S",
+                "descriptiveText": "Keramiker tina hellman",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "7",
+                "proprietaryBankTransactionCodeText": "Betalning",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/8a2362bc-69c7-47d8-8b23-a999e171b7a6"
+                    }
+                }
+            },
+            {
+                "transactionId": "7d14de00-8d45-4468-bc22-115c81490676",
+                "valueDate": "2018-11-01",
+                "bookingDate": "2018-11-01",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/7d14de00-8d45-4468-bc22-115c81490676"
+                    }
+                }
+            },
+            {
+                "transactionId": "78d1e9bb-792f-4983-845c-d60ffe004e43",
+                "valueDate": "2018-11-01",
+                "bookingDate": "2018-11-01",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/78d1e9bb-792f-4983-845c-d60ffe004e43"
+                    }
+                }
+            },
+            {
+                "transactionId": "245d8511-21b5-417a-abac-6161ed2e742e",
+                "valueDate": "2018-11-01",
+                "bookingDate": "2018-11-01",
+                "entryReference": "5490990004",
+                "descriptiveText": "54401304012",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/245d8511-21b5-417a-abac-6161ed2e742e"
+                    }
+                }
+            },
+            {
+                "transactionId": "09f66979-7510-413a-a957-510c6d16f2db",
+                "valueDate": "2018-11-01",
+                "bookingDate": "2018-11-01",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/09f66979-7510-413a-a957-510c6d16f2db"
+                    }
+                }
+            },
+            {
+                "transactionId": "18e4167b-ad42-486d-aef7-15845afc109b",
+                "valueDate": "2018-11-01",
+                "bookingDate": "2018-11-01",
+                "entryReference": "5490990004",
+                "descriptiveText": "For bankgiro",
+                "transactionAmount": {
+                    "amount": "-500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "8",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring",
+                "_links": {
+                    "transactionDetails": {
+                        "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions/18e4167b-ad42-486d-aef7-15845afc109b"
+                    }
+                }
+            },
+            {
+                "transactionId": "c77a6aaf-0063-48e1-aeeb-9153c96b3c1f",
+                "valueDate": "2018-11-01",
+                "bookingDate": "2018-11-01",
+                "entryReference": "5490990004",
+                "descriptiveText": "For sepa",
+                "transactionAmount": {
+                    "amount": "1000.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "0",
+                "proprietaryBankTransactionCodeText": "\u00d6verf\u00f6ring"
+            },
+            {
+                "transactionId": "9ff42215-c769-43df-ba3e-81e8e74b6ed9",
+                "valueDate": "2018-11-01",
+                "bookingDate": "2018-11-01",
+                "entryReference": "5490990733",
+                "descriptiveText": "Betalservice",
+                "transactionAmount": {
+                    "amount": "-120.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "19613c94-62a3-474b-a8f8-36233c6b0d7b",
+                "valueDate": "2018-10-31",
+                "bookingDate": "2018-10-31",
+                "entryReference": "5440850141L",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "743be3d5-f537-4365-b012-fb0cea91ca0b",
+                "valueDate": "2018-10-31",
+                "bookingDate": "2018-10-31",
+                "entryReference": "5440850145L",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "01297e8f-25ae-43fd-9366-a8ea892121f9",
+                "valueDate": "2018-10-30",
+                "bookingDate": "2018-10-30",
+                "entryReference": "5440850154",
+                "descriptiveText": "R\u00e4ttat",
+                "transactionAmount": {
+                    "amount": "-150.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "2d027b48-4fde-4264-9557-2f162ea27b7e",
+                "valueDate": "2018-10-30",
+                "bookingDate": "2018-10-30",
+                "entryReference": "5490990110",
+                "descriptiveText": "Avi \u00f6verdrag",
+                "transactionAmount": {
+                    "amount": "-100.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "335c064a-d696-49bc-a890-8032a33ff1a5",
+                "valueDate": "2018-10-29",
+                "bookingDate": "2018-10-29",
+                "entryReference": "5440850095",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "584453ad-6937-40ed-b159-70924ecfc35e",
+                "valueDate": "2018-10-29",
+                "bookingDate": "2018-10-29",
+                "entryReference": "5440850099",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "d233c3e2-9f84-478f-af7e-707804801376",
+                "valueDate": "2018-10-29",
+                "bookingDate": "2018-10-29",
+                "entryReference": "5440850098",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "200.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            },
+            {
+                "transactionId": "413faad8-ac30-475f-9155-773daea1d77c",
+                "valueDate": "2018-10-29",
+                "bookingDate": "2018-10-29",
+                "entryReference": "5440850149",
+                "descriptiveText": "\u00d6verf\u00f6rt",
+                "transactionAmount": {
+                    "amount": "1500.0",
+                    "currency": "SEK"
+                },
+                "proprietaryBankTransactionCode": "14",
+                "proprietaryBankTransactionCodeText": "\u00d6vrigt"
+            }
+        ],
+        "pending": []
+    },
+    "_links": {
+        "account": {
+            "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c"
+        },
+        "next": {
+            "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions?bookingStatus=booked&dateFrom=2018-10-29&transactionSequenceNumber=5"
+        }
+    }
+}
